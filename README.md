@@ -9,8 +9,4 @@ This project involves building and evaluating a Convolutional Neural Network (CN
 - **Data Augmentation**: 20% of the images were rotated to increase training data diversity.
 - **Model Performance**: Achieved a training accuracy of 95.57%, with a validation accuracy of 75.32%, showing some signs of overfitting.
 
-## Installation
 
-### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/cnn-cifar10.git
